@@ -1,5 +1,8 @@
 _repo: The-wolf-pack_74478
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74478-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Cullum, Ridgwell
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5545
     wikipedia: https://en.wikipedia.org/wiki/Ridgwell_Cullum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74478#The-wolf-pack
 gutenberg_issued: '2024-09-26'
 gutenberg_type: Text
 identifiers:
